@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/02 14:12:59.000.844,=F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/06 19:46:54.000.597,=F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 10:12:24.000.035,=F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 10:38:26.000.379,F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.dfm=F:\testes\Vendas\UFormPrincipal.dfm</Transaction>
+    <Transaction>2021/11/13 10:38:26.000.379,F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas=F:\testes\Vendas\UFormPrincipal.pas</Transaction>
+    <Transaction>2021/11/13 10:45:41.000.087,=F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 10:45:52.000.331,F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas=F:\testes\Vendas\untVendas.pas</Transaction>
+    <Transaction>2021/11/13 10:58:40.000.275,=F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 10:58:51.000.174,F:\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas=F:\testes\Vendas\untConexao.pas</Transaction>
+    <Transaction>2021/11/13 12:31:28.000.404,F:\Meus Documentos\Embarcadero\Studio\Projects\Project1.dproj=F:\testes\Vendas\Teste.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
